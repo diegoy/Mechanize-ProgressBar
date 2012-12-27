@@ -1,7 +1,8 @@
 Gem::Specification.new do |s|
-  s.name        = "bundler"
+  s.name        = "mechanize-progressbar"
   s.version     = Bundler::VERSION
   s.platform    = Gem::Platform::RUBY
+  s.summary     = "Progress bar for Mechanize"
   s.authors     = ["kitamomonga"]
   s.email       = ["kitamomonga@gmail.com"]
   s.homepage    = "http://github.com/kitamomonga/Mechanize-ProgressBar"
