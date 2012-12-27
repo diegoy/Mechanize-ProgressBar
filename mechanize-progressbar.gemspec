@@ -10,6 +10,5 @@ Gem::Specification.new do |s|
   s.required_rubygems_version = ">= 1.3.6"
   s.rubyforge_project         = "mechanize-progressbar"
 
-  s.executables  = ['bundle']
   s.require_path = 'lib'
 end
