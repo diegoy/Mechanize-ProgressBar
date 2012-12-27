@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = "mechanize-progressbar"
-  s.version     = Bundler::VERSION
+  s.version     = "0.2.5"
   s.platform    = Gem::Platform::RUBY
   s.summary     = "Progress bar for Mechanize"
   s.authors     = ["kitamomonga"]
